@@ -1,5 +1,5 @@
 # beehive
-Personal project to make my job easier.
+Personal project.
 
 I making this repository to add the scripts I'm creating to make my job a little easy every day.
 
